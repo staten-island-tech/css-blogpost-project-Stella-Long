@@ -2,27 +2,36 @@ body {
   font-family: "Gamja Flower", sans-serif;
   font-weight: 400;
   font-style: normal;
+  font-size:xx-large;
   text-align: center;
-  padding: 0;
+  padding: 50px;
   margin: 0;
+  background-color:beige;
 }
 
-h1 {
+p {
   text-align: center;
-  margin:100px;
-  padding:50px;
-  width:76vw;
+  margin: 5rem;
+  padding: 0;
+  width: 30vw;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2 {
     text-align: center;
     margin:0;
     padding:50px;
-    width: 75w;
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img {
   height:750;
   width:750;
   text-align: center;
-}
+  border-radius: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+} */
