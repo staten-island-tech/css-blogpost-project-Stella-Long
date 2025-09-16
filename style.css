@@ -2,21 +2,27 @@ body {
   font-family: "Gamja Flower", sans-serif;
   font-weight: 400;
   font-style: normal;
+  text-align: center;
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
   text-align: center;
-  margin: 50px;
-  padding: 50px;
-  width: 50vw;
+  margin:100px;
+  padding:50px;
+  width:76vw;
+}
+
+h2 {
+    text-align: center;
+    margin:0;
+    padding:50px;
+    width: 75w;
 }
 
 img {
-  width: 500px;
+  height:750;
+  width:750;
+  text-align: center;
 }
-/* only adjust width or height dont do both */
-
-/* to center text */
-/* margin is the space between pixels */
-/* padding gap/distance between the element in itself */
-/* vw is the amount of the screen taken up */
